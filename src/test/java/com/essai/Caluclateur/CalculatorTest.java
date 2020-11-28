@@ -23,7 +23,7 @@ public class CalculatorTest {
     }
 
     
-
+    @Test
     public void testMinelement()
     {
 
