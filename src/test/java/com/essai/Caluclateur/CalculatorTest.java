@@ -44,4 +44,22 @@ public class CalculatorTest {
 		
 		Assert.assertEquals(2, calculator.divide(6, 3));
 	}
+
+	@Test
+	public void testMin() {
+
+		int result = calculator.min(30, 10);
+		if (result != 10) {   // if 2 + 2 != 4
+			Assert.fail();
+		}
+	}
+
+	@Test
+	public void testMax() {
+
+		int result = calculator.max(30, 10);
+		if (result != 30) {   // if 2 + 2 != 4
+			Assert.fail();
+		}
+	}
 }
