@@ -7,18 +7,13 @@ import org.junit.Test;
 
 public class CalculatorTest {
     int tab[]={2,3,8,-2};
-    @Test
-    public void testMultiply()
-    {
-
-        Assert.assertEquals(12, calculator.multiply(3, 4));
-    }
-
-    @Test(expected = ArithmeticException.class)
-    public void testDivideWillThrowExceptionWhenDivideOnZero() {
-
-        calculator.divide(6, 0);
-    }
+    
+    Calculator calculator;
+	@Before
+	public void setUp() throws Exception{
+		calculator = new Calculator();
+	}
+    
 
     @Test
     public void testMaxElement()
@@ -27,11 +22,7 @@ public class CalculatorTest {
         Assert.assertEquals(8,calculator.maxElement(tab));
     }
 
-    @Test
-    public void testMinElement()
-    {
-        Assert.assertEquals(-2,calculator.minElement(tab));
-    }
+    
 
     public void testMinelement()
     {
@@ -57,11 +48,6 @@ public class CalculatorTest {
 
         calculator.divide(6, 0);
     }
-	Calculator calculator;
-	@Before
-	public void setUp() throws Exception{
-		calculator = new Calculator();
-	}
 	
 	// test somme
 	@Test
