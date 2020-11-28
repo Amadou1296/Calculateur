@@ -3,7 +3,6 @@ package com.essai.Caluclateur;
 public class CalculatorTest {
     int tab[]={2,3,8,-2};
     @Test
-<<<<<<< HEAD
     public void testMultiply()
     {
 
@@ -28,8 +27,7 @@ public class CalculatorTest {
     {
         Assert.assertEquals(-2,calculator.minElement(tab));
     }
-	
-=======
+
     public void testMinelement()
     {
 
@@ -54,5 +52,4 @@ public class CalculatorTest {
 
         calculator.divide(6, 0);
     }
->>>>>>> ibrahima
 }
