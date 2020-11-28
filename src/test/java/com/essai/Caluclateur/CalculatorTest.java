@@ -8,7 +8,7 @@ public class CalculatorTest {
 
         Assert.assertEquals(8,calculator.maxElement(tab));
     }
-
+	//le min du tableau
     @Test
     public void testMinElement()
     {
