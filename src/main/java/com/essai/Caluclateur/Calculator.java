@@ -7,7 +7,7 @@ public class Calculator {
 	{
 		return a+b;
 	}
-	
+
 	// soustraction
 	public int minus(int a, int b) {
 		return a - b;
@@ -48,17 +48,26 @@ public class Calculator {
 	 * @param list
 	 * @return
 	 */
-	public int maxElement(int[] list)
-	{
-		int max=list[list.length-1];
-		for(int i=list.length-1;i>1;i--)
-		{
+	public int maxElement(int[] list) {
+		int max = list[list.length - 1];
+		for (int i = list.length - 1; i > 1; i--) {
 
-			if(max<list[i-1])
-			{
-				max=list[i-1];
+			if (max < list[i - 1]) {
+				max = list[i - 1];
 			}
 		}
 		return max;
+	}
+	public int multiply(int a, int b)
+	{
+		return a*b;
+	}
+	public int min(int a, int b)
+	{
+		return Math.min(a, b);
+	}
+	public int max(int a, int b)
+	{
+		return Math.max(a, b);
 	}
 }

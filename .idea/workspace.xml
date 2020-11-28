@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/Ibrahima" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <list default="true" id="f1588f36-0f60-4bd2-a8af-95cc0498645b" name="Default Changelist" comment="jai ajouter 2 methodes min et max element">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+    <list default="true" id="f1588f36-0f60-4bd2-a8af-95cc0498645b" name="Default Changelist" comment="j'ai ajouté 4 methodes de test">
+>>>>>>> ibrahima
+=======
+    <list default="true" id="f1588f36-0f60-4bd2-a8af-95cc0498645b" name="Default Changelist" comment="j'ai ajouté 4 methodes de test">
+>>>>>>> ibrahima
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/essai/Caluclateur/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/essai/Caluclateur/CalculatorTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kq3aTKzEKCt3ceuyp7vW0w7WCm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1588f36-0f60-4bd2-a8af-95cc0498645b" name="Default Changelist" comment="" />
+      <created>1606414360686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606414360686</updated>
+    </task>
+    <task id="LOCAL-00001" summary="jai ajouter 2 methodes min et max element">
+      <created>1606416239751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606416239751</updated>
+    </task>
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <option name="localTasksCounter" value="2" />
+=======
+=======
+>>>>>>> ibrahima
+    <task id="LOCAL-00002" summary="j'ai ajouté 4 methodes de test">
+      <created>1606578006283</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606578006283</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+<<<<<<< HEAD
+>>>>>>> ibrahima
+=======
+>>>>>>> ibrahima
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/Ibrahima" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jai ajouter 2 methodes min et max element" />
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <option name="LAST_COMMIT_MESSAGE" value="jai ajouter 2 methodes min et max element" />
+=======
+    <MESSAGE value="j'ai ajouté 4 methodes de test" />
+    <option name="LAST_COMMIT_MESSAGE" value="j'ai ajouté 4 methodes de test" />
+>>>>>>> ibrahima
+=======
+    <MESSAGE value="j'ai ajouté 4 methodes de test" />
+    <option name="LAST_COMMIT_MESSAGE" value="j'ai ajouté 4 methodes de test" />
+>>>>>>> ibrahima
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1606415188573">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1606415188573" />
+  </component>
+</project>
