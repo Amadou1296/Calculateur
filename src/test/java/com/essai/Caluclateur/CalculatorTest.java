@@ -6,7 +6,6 @@ import org.junit.Test;
 
 
 public class CalculatorTest {
-<<<<<<< HEAD
     int tab[]={2,3,8,-2};
     @Test
     public void testMultiply()
@@ -58,7 +57,6 @@ public class CalculatorTest {
 
         calculator.divide(6, 0);
     }
-=======
 	Calculator calculator;
 	@Before
 	public void setUp() throws Exception{
@@ -115,5 +113,4 @@ public class CalculatorTest {
 			Assert.fail();
 		}
 	}
->>>>>>> 2d393d7414b9552393009503625832676f0501d4
 }
