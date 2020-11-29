@@ -67,7 +67,9 @@ public class Calculator {
 		return Math.min(a, b);
 	}
 	public int max(int a, int b)
+
 	{
 		return Math.max(a, b);
 	}
+
 }
